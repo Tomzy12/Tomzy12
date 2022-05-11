@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tomzy12
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning data science, web development, python and javascript.
+- 🌱 I’m currently learning data science, web development, python and javascript and software enginneering as a full stack developer.
 - 💞️ I’m looking to collaborate on blockchain technology.
 - 📫 How to reach me is through my email (atangacrisantos@gmail.com)
 
